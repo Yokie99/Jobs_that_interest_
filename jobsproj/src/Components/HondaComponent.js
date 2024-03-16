@@ -8,7 +8,8 @@ const HondaComponent = () => {
         <img className='' src={honda} />
       </div>
 
-      <h1 className='d-flex justify-content-center py-4'>Intel - Software Engineer</h1>
+      <h1 className='d-flex justify-content-center py-4'>honda - Sr. Software Defined Vehicle Experience Engineer
+</h1>
       <div className='row mx-4 py-3'>
 
         <div className='col'>

@@ -75,7 +75,7 @@ const GoogleComponent = () => {
         <div className='col'>
 
           <ul>
-            <li>Not at the moment but I meet the requirements for know programming languages. Will need to learn the machine learning algorrithms and software </li>
+            <li>Not at the moment but I meet the requirements for knowing programming languages they listed. Will need to learn the machine learning algorrithms and software </li>
 
           </ul>
         </div>

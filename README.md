@@ -20,5 +20,5 @@ Also incorporate a document with the 5 jobs from the site and an additional 5 mo
 Job Description
 Job Requirements
 
-Peer Reviewer: 
-Review: 
+Peer Reviewer: Jared Ly
+Review: The assignment looks great but with a few typos in some of the pages. All the BrowserRouter funcitons from the navbar go where they are suppose to. Each job was selected carefully with consideration. 
